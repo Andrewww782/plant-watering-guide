@@ -2,6 +2,8 @@
 
 A guide to watering small pots with a Raspberry Pi. The shelf is a WebGL scene built with React Three Fiber.
 
+Live: https://plant-watering-guide.vercel.app/
+
 ```bash
 npm install
 npm run dev
